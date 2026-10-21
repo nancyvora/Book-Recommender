@@ -1,5 +1,7 @@
 # Semantic Book Recommender
 
+[![Live demo](https://img.shields.io/badge/demo-Hugging%20Face%20Space-yellow)]([https://huggingface.co/spaces/nancyvora/Home-Credit-Default-Risk](https://huggingface.co/spaces/nancyvora/Book-Recommender))
+
 **[Try the live demo on Hugging Face Spaces →](https://huggingface.co/spaces/nancyvora/Book-Recommender)**
 
 A book recommender that finds books from a plain-language description of what you want to read, such as *"a story about forgiveness"* or *"a book to teach children about nature"*. You can filter the results by category and sort them by emotional tone (happy, surprising, angry, suspenseful or sad).
