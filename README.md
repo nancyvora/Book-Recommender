@@ -1,9 +1,6 @@
 # Semantic Book Recommender
 
 [![Open in Hugging Face Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/nancyvora/Book-Recommender)
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
-
 
 **[Try the live demo on Hugging Face Spaces →](https://huggingface.co/spaces/nancyvora/Book-Recommender)**
 
