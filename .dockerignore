@@ -1,0 +1,15 @@
+# Only the app, its data and its requirements go into the image (see Dockerfile)
+.env
+.env.*
+.git
+venv/
+.venv/
+__pycache__/
+notebooks/
+screenshots/
+tests/
+deploy/
+data/raw/
+data/evaluation/
+data/processed/*
+!data/processed/books_with_emotions.csv

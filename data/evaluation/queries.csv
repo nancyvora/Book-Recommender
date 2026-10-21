@@ -1,0 +1,41 @@
+query_id,type,query
+0,fiction,A story about forgiveness
+1,fiction,A detective solving a murder in Victorian London
+2,fiction,A love story set during World War II
+3,fiction,A dystopian future where the government controls everything
+4,fiction,A coming-of-age story about growing up in a small town
+5,fiction,A fantasy adventure with dragons and magic
+6,fiction,A ghost story set in an old haunted house
+7,fiction,A family saga spanning several generations
+8,fiction,A funny novel that will make me laugh out loud
+9,fiction,A psychological thriller with an unreliable narrator
+10,fiction,A novel about the immigrant experience in America
+11,fiction,Science fiction about first contact with aliens
+12,fiction,A story about friendship between two women
+13,fiction,A historical novel set in ancient Rome
+14,fiction,A legal thriller set in a courtroom
+15,fiction,A story of survival in the wilderness
+16,nonfiction,A biography of a famous scientist
+17,nonfiction,A history of World War II
+18,nonfiction,An introduction to Buddhist philosophy
+19,nonfiction,A book that explains how the human brain works
+20,nonfiction,A memoir of someone overcoming addiction
+21,nonfiction,A guide to Christian prayer and spiritual growth
+22,nonfiction,A history of the American Civil War
+23,nonfiction,A book about evolution and natural selection
+24,nonfiction,Literary criticism of Shakespeare's plays
+25,nonfiction,A collection of essays on politics and society
+26,nonfiction,A book about the history of mathematics
+27,nonfiction,A memoir about growing up in poverty
+28,nonfiction,A book on ancient Greek philosophy
+29,nonfiction,A travel book about exploring Africa
+30,children,A book to teach children about nature
+31,children,A picture book about a brave little animal
+32,children,A story for kids about going to school for the first time
+33,children,An adventure book for young readers with talking animals
+34,children,A book for children about dinosaurs
+35,children,A bedtime story about friendship
+36,mood,Something uplifting to read after a hard week
+37,mood,A dark and disturbing book that will stay with me
+38,mood,A sad book that will make me cry
+39,mood,Poetry about love and loss

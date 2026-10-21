@@ -1,0 +1,12 @@
+# Runtime dependencies for the web app and API only (Docker and Hugging Face).
+# requirements.txt has the full set, including what the notebooks need.
+# Versions are pinned to match the environment the app was tested in.
+gradio==6.30.0
+fastapi==0.143.3
+uvicorn==0.54.0
+pandas==3.0.6
+numpy==2.5.4
+python-dotenv==1.2.4
+langchain-openai==1.7.2
+langchain-chroma==1.1.0
+chromadb==1.5.9
